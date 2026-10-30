@@ -1,7 +1,7 @@
 {
   "version": 1,
   "cache_ttl_minutes": 5,
-  "top_slot": { "mode": "empty" },
+  "top_slot": { "mode": "sponsor" },
   "bottom_slot": { "mode": "empty" },
   "professional_support": {
     "enabled": false,
@@ -11,8 +11,8 @@
     "valid_until_utc": ""
   },
   "sponsor": {
-    "active": false,
-    "name": "",
+    "active": true,
+    "name": "Everything OK TEST",
     "click_url": "",
     "top_logo_url": "",
     "banner_url": "",
