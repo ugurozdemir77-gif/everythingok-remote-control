@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "cache_ttl_minutes": 5,
+  "top_slot": { "mode": "empty" },
+  "bottom_slot": { "mode": "empty" },
+  "professional_support": {
+    "enabled": false,
+    "action_url": "",
+    "image_url": "",
+    "valid_from_utc": "",
+    "valid_until_utc": ""
+  },
+  "sponsor": {
+    "active": false,
+    "name": "",
+    "click_url": "",
+    "top_logo_url": "",
+    "banner_url": "",
+    "valid_from_utc": "",
+    "valid_until_utc": ""
+  }
+}
