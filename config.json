@@ -2,11 +2,11 @@
   "version": 1,
   "cache_ttl_minutes": 5,
   "top_slot": {
-    "mode": "sponsor"
-  },
-  "bottom_slot": {
-    "mode": "empty"
-  },
+  "mode": "empty"
+},
+"bottom_slot": {
+  "mode": "sponsor"
+},
   "professional_support": {
     "enabled": false,
     "action_url": "",
@@ -15,7 +15,7 @@
     "valid_until_utc": ""
   },
   "sponsor": {
-    "active": false,
+    "active": true,
     "name": "UZAKTAN YONETIM BASARILI",
     "click_url": "https://www.google.com",
     "top_logo_url": "https://raw.githubusercontent.com/ugurozdemir77-gif/everythingok-remote-control/main/IMG_20261030_145725.jpg",
