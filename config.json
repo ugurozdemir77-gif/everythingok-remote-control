@@ -15,7 +15,7 @@
     "valid_until_utc": ""
   },
   "sponsor": {
-    "active": true,
+    "active": false
     "name": "Everything OK TEST",
     "click_url": "https://www.google.com",
     "top_logo_url": "",
