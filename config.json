@@ -1,8 +1,12 @@
 {
   "version": 1,
   "cache_ttl_minutes": 5,
-  "top_slot": { "mode": "sponsor" },
-  "bottom_slot": { "mode": "empty" },
+  "top_slot": {
+    "mode": "sponsor"
+  },
+  "bottom_slot": {
+    "mode": "empty"
+  },
   "professional_support": {
     "enabled": false,
     "action_url": "",
@@ -13,7 +17,7 @@
   "sponsor": {
     "active": true,
     "name": "Everything OK TEST",
-    "click_url": "",
+    "click_url": "https://www.google.com",
     "top_logo_url": "",
     "banner_url": "",
     "valid_from_utc": "",
