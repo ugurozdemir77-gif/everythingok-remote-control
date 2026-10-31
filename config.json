@@ -5,8 +5,8 @@
     "mode": "empty"
   },
   "bottom_slot": {
-    "mode": "admob"
-  },
+  "mode": "admob"
+},
   "professional_support": {
     "enabled": false,
     "action_url": "",
