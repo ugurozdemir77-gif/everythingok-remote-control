@@ -2,7 +2,7 @@
   "version": 1,
   "cache_ttl_minutes": 5,
   "top_slot": {
-    "mode": "sponsor"
+    "mode": "empty"
   },
   "bottom_slot": {
     "mode": "empty"
@@ -15,9 +15,9 @@
     "valid_until_utc": ""
   },
   "sponsor": {
-    "active": true,
-    "name": "TEST SPONSOR",
-    "click_url": "https://ugurozdemir77-gif.github.io/everythingok-privacy/",
+    "active": false,
+    "name": "",
+    "click_url": "",
     "top_logo_url": "",
     "banner_url": "",
     "valid_from_utc": "",
